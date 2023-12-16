@@ -2,7 +2,7 @@
 - 👀 I’m interested in 
 - 🌱 I’m currently learning Html, Css, Js, PHP
 - 💞️ I’m looking to collaborate on with the IT industry
-- 📫 How to reach me ...
+- 📫 How to reach me ..
 
 <!---
 KhoberVlad/KhoberVlad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
